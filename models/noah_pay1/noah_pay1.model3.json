@@ -1,0 +1,96 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "noah_pay1.moc3",
+		"Textures": [
+			"noah_pay1.8192/texture_00.png",
+			"noah_pay1.8192/texture_01.png"
+		],
+		"Physics": "noah_pay1.physics3.json",
+		"DisplayInfo": "noah_pay1.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "chilun.exp3.json",
+				"File": "chilun.exp3.json"
+			},
+			{
+				"Name": "faqia.exp3.json",
+				"File": "faqia.exp3.json"
+			},
+			{
+				"Name": "gantanhao.exp3.json",
+				"File": "gantanhao.exp3.json"
+			},
+			{
+				"Name": "gaoguang.exp3.json",
+				"File": "gaoguang.exp3.json"
+			},
+			{
+				"Name": "guan.exp3.json",
+				"File": "guan.exp3.json"
+			},
+			{
+				"Name": "ku.exp3.json",
+				"File": "ku.exp3.json"
+			},
+			{
+				"Name": "lianhei.exp3.json",
+				"File": "lianhei.exp3.json"
+			},
+			{
+				"Name": "sha.exp3.json",
+				"File": "sha.exp3.json"
+			},
+			{
+				"Name": "shengqi.exp3.json",
+				"File": "shengqi.exp3.json"
+			},
+			{
+				"Name": "waitao.exp3.json",
+				"File": "waitao.exp3.json"
+			},
+			{
+				"Name": "xxyan.exp3.json",
+				"File": "xxyan.exp3.json"
+			},
+			{
+				"Name": "xxyan2.exp3.json",
+				"File": "xxyan2.exp3.json"
+			},
+			{
+				"Name": "xue.exp3.json",
+				"File": "xue.exp3.json"
+			},
+			{
+				"Name": "zs1.exp3.json",
+				"File": "zs1.exp3.json"
+			},
+			{
+				"Name": "zs2.exp3.json",
+				"File": "zs2.exp3.json"
+			},
+			{
+				"Name": "zs3.exp3.json",
+				"File": "zs3.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}
